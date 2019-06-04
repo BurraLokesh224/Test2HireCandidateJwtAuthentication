@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Q-barter_Test2Hire_Candidate
+Implementation-Version: 0.0.1
+Built-By: DELL
+Implementation-Vendor-Id: com.Test2Hire.jwtauthentication
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Test2HireCandidateJwtAuthentication
+Created-By: Maven Integration for Eclipse
+
